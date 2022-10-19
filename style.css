@@ -44,7 +44,7 @@ a::after{
 }
 
 .hero{
-    background-image: url("./Images/petting_dog.jpg");
+    background-image: url("petting_dog.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
